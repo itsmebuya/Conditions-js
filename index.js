@@ -119,3 +119,52 @@
 //     console.log("Computer offline!");
 // }
 
+
+// let number = 1;
+
+// if (number % 2 === 0) {
+//     console.log("even");
+// } else {
+//     console.log("odd");
+// }
+
+//8 
+// let role = "Director"
+// if (role === 'Employee') {
+//     console.log("Hello");
+// } else if (role === 'Director') {
+//     console.log("Greeting");
+// } else if (role === '') {
+//     console.log("Please provide role");
+// } else {
+//     console.log("Hi");
+// }
+
+//9
+// let price = 40000
+// if(price>=5000 && 30000>= price) {
+//     price=price*1.15;
+//     console.log(price)
+// }
+// else{
+//     price=price*1.2
+//     console.log(price)
+// }
+
+//10
+
+// let utga = ""
+// if(utga.length>= 10){
+//     console.log("more than 10")
+// }
+// else if (utga.length>=5){
+//     console.log("more than 5")
+// }
+// else if(1>utga.length) {
+//     console.log("it has nothing")
+// }
+// else if (utga.length ==1) {
+//     console.log("equal to 1")
+// }
+// else {console.log("i dont know ")}
+
